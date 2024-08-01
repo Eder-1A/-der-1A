@@ -11,3 +11,6 @@ Meu nome Éder Mayke
 ### Você pode entrar em contato comigo 📫
 
 lot.eder@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/BY-4cJ3NSrcAAAAd/sus-suspicious.gif)
