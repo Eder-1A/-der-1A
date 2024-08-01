@@ -2,7 +2,7 @@
 
 Meu nome Éder Mayke
 
--Estou estudando no Alura 
+-Estou estudando no ![Alura](https://www.alura.com.br) 
 
 -Estou me desenvolvendo na linguagen JavaScript
 
